@@ -1,4 +1,4 @@
-//Udemy -- Web Developer course -- Module 25 -- Lecture 7
+//MovieSearch Web app
 
 var express = require("express");
 var app = express();
